@@ -18,7 +18,7 @@ class _BotCommands:
         self.SpeedCommand = 'speedtest4'
         self.CloneCommand = 'clone4'
         self.WatchCommand = 'watch4'
-        self.TarWatchCommand = 'tarw4'
+        self.TarWatchCommand = 'tarwatch4'
         self.DeleteCommand = 'd'
         self.UsageCommand = 'usage4'
         self.RepoCommand = 'repo0025'
